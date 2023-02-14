@@ -1,11 +1,11 @@
-import { Children } from 'react';
+import { Link } from 'react-router-dom';
 import styles from './CabecalhoLink.module.css';
 
-function CabecalhoLink ({ url, Children}){
+function CabecalhoLink({ url, children }) {
     return (
-        <link to={url} className={styles.link}>
-            {Children}
-        </link>
+        <Link to={url} className={styles.link}>
+            {children}
+        </Link>
     )
 }
 

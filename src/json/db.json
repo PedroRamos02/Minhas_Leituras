@@ -1,26 +1,43 @@
 [
     {
         "id": 1,
-        "titulo": "O labirinto do Logcat",
-        "capa": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img2.png",
-        "link": "https://www.youtube.com/embed/ypvGqZGJBls"
+        "titulo": "A Sociedade do Anel",
+        "capa": "https://m.media-amazon.com/images/I/81SWBRKfExL.jpg"
+        
     },
     {
         "id": 2,
-        "titulo": "Um componente no espaço",
-        "capa": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img1.png",
-        "link": "https://www.youtube.com/embed/jK0uiQ1ZQQQ"
+        "titulo": "As Duas Torres",
+        "capa": "https://m.media-amazon.com/images/I/81lQ5N0QwJL.jpg"
     },
     {
         "id": 3,
-        "titulo": "O poderoso JavaScript",
-        "capa": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img4.png",
-        "link": "https://www.youtube.com/embed/N1BSG02z-Mw"
+        "titulo": "O Retorno do Rei",
+        "capa": "https://m.media-amazon.com/images/I/71+4uDgt8JL.jpg"
     },
     {
         "id": 4,
-        "titulo": "Dart, o Caçador de Andróides",
-        "capa": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img3.png",
-        "link": "https://www.youtube.com/embed/LLmBWjF6F8M"
+        "titulo": "O Hobbit",
+        "capa": "https://m.media-amazon.com/images/I/91M9xPIf10L.jpg"
+    },
+    {
+        "id": 4,
+        "titulo": "Guerra dos Tronos",
+        "capa": "https://m.media-amazon.com/images/I/91+1SUO3vUL.jpg"
+    },
+    {
+        "id": 4,
+        "titulo": "A Fúria dos Reis",
+        "capa": "https://m.media-amazon.com/images/I/A1nhXznuhpL.jpg"
+    },
+    {
+        "id": 4,
+        "titulo": "A Tormenta de Espadas",
+        "capa": "https://m.media-amazon.com/images/I/61zsH6UU0XL.jpg"
+    },
+    {
+        "id": 4,
+        "titulo": "O Festim Dos Corvos",
+        "capa": "https://m.media-amazon.com/images/I/915n69YKrCL.jpg"
     }
 ]
